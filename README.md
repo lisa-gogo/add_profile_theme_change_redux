@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-This project is made by React Redux.
+This project is made by React Redux. </br>
 Deployment Page : https://lucid-tesla-dd1b90.netlify.app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
